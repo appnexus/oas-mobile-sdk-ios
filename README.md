@@ -1,3 +1,5 @@
 AppNexus Open AdStream iOS Mobile SDK.
 
-Please see IntegrationGuide/iOS_SDK.pdf for details.
+IntegrationGuide/iOS_SDK.pdf for details.
+
+Please contact your OAS Account Mannager for support regarding any issues.
